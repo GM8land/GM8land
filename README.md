@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @GM8land
-- 👀 I’m interested in AI
-- 🌱 I’m currently learning github basics
-- 💞️ I’m looking to collaborate on AI bootcamp projects
-- 📫 How to reach me 210-488-1980
+- 👀 I’m interested in using Artificial Intelligence and Machine Learning to find hidden connections in data.    
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I'm a Level 2  Reiki Practitioner
 
