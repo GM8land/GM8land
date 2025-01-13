@@ -16,60 +16,59 @@ Some of the key accomplishments and skills I gained and am now proficient in:
     
 
 GM8land/python-challenge-updated
-- First Python coding challenge
-- Built an interactive food truck menu and ordering system
+- Designing an interactive food truck menu and ordering system using Python
+  
 
 GM8land/customer_banking
-- First Python coding challenge
-- Built an interactive food truck menu and ordering system
+- Creating a basic customer banking system in Python that allows users to calculate and track interest earned on savings and CD accounts 
+
 
 GM8land/pandas-challenge-1
-- First Python coding challenge
-- Built an interactive food truck menu and ordering system
+- Leverage Pandas  to exploring and analyze data to address real-world business questions
+  
 
 GM8land/athletic-sales-analysis
-- First Python coding challenge
-- Built an interactive food truck menu and ordering system
+- Analyze sales data to gain insights using Pandas
+
 
 GM8land/data-sourcing-challenge
-- First Python coding challenge
-- Built an interactive food truck menu and ordering system
+- Create and use APIs to source and prepare data for a recommendation system
+
 
 GM8land/prophet-challenge
-- First Python coding challenge
-- Built an interactive food truck menu and ordering system
+- Use Meta's Prophet model to perform Time Series Forecasting. Find out if the ability to predict whether a company's search traffic can translate into successful stock trades
+
 
 DonoW4000/Global_Data_Jobs
-- First Python coding challenge
-- Built an interactive food truck menu and ordering system**
-
+- Group Project 1: Exploratory data analysis and data visualization of jobs in AI and Data Science
+  
 GM8land/CryptoClustering
-- First Python coding challenge
-- Built an interactive food truck menu and ordering system
+- use K-means algorithm and principal component analysis (PCA) to classify cryptocurrencies according to their price fluctuations across various timeframes
+
 
 GM8land/classification-challenge
-- First Python coding challenge
-- Built an interactive food truck menu and ordering system
+- Develop 2 supervised machine learning models and assess performance accurately detecting spam emails
+
 
 rashalkhatib/heat-impact-modeling
-- First Python coding challenge
-- Built an interactive food truck menu and ordering system
+- Group Project 2: Using granular climate data to predict risk of Wet Bulb Heat Events for a region
+  
 
 GM8land/neural-network-challenge-1
-- First Python coding challenge
-- Built an interactive food truck menu and ordering system
+- Use Neural Networks to create a model that will predict the likelihood that an applicant will repay their student loans.
+
 
 GM8land/neural-network-challenge-2
-- First Python coding challenge
-- Built an interactive food truck menu and ordering system
+- create and optimize a branched neural network that HR can use to predict whether employees are likely to leave the company and predict the department that best fits each employee.
+
 
 GM8land/sms-spam-detector
-- First Python coding challenge
-- Built an interactive food truck menu and ordering system
+- Refactor code from an SMS text classification solution into a function that constructs a linear Support Vector Classification (SVC) model, then create a Gradio app to host the application, enabling users to test text messages.
+
 
 willablackmon/predicting_nfl_qb_success
-- First Python coding challenge
-- Built an interactive food truck menu and ordering system
+- Final Group Project: Leverage college and draft stats to predict a football players future success in the NFL
+
 
 
 
