@@ -16,15 +16,15 @@ Some of the key accomplishments and skills I gained and am now proficient in:
     
 
 GM8land/python-challenge-updated
-- Designing an interactive food truck menu and ordering system using Python
+- Design an interactive food truck menu and ordering system using Python
   
 
 GM8land/customer_banking
-- Creating a basic customer banking system in Python that allows users to calculate and track interest earned on savings and CD accounts 
+- Create a basic customer banking system in Python that allows users to calculate and track interest earned on savings and CD accounts 
 
 
 GM8land/pandas-challenge-1
-- Leverage Pandas  to exploring and analyze data to address real-world business questions
+- Leverage Pandas to explore and analyze data to address real-world business questions
   
 
 GM8land/athletic-sales-analysis
@@ -43,15 +43,15 @@ DonoW4000/Global_Data_Jobs
 - Group Project 1: Exploratory data analysis and data visualization of jobs in AI and Data Science
   
 GM8land/CryptoClustering
-- use K-means algorithm and principal component analysis (PCA) to classify cryptocurrencies according to their price fluctuations across various timeframes
+- Use K-means algorithm and principal component analysis (PCA) to classify cryptocurrencies according to their price fluctuations across various timeframes
 
 
 GM8land/classification-challenge
-- Develop 2 supervised machine learning models and assess performance accurately detecting spam emails
+- Develop 2 supervised machine learning models and assess their performance accurately detecting spam emails
 
 
 rashalkhatib/heat-impact-modeling
-- Group Project 2: Using granular climate data to predict risk of Wet Bulb Heat Events for a region
+- Group Project 2: Use granular climate data to predict risk of Wet Bulb Heat Events for a region
   
 
 GM8land/neural-network-challenge-1
@@ -59,7 +59,7 @@ GM8land/neural-network-challenge-1
 
 
 GM8land/neural-network-challenge-2
-- create and optimize a branched neural network that HR can use to predict whether employees are likely to leave the company and predict the department that best fits each employee.
+- Create and optimize a branched neural network that HR can use to predict whether employees are likely to leave the company and predict the department that best fits each employee.
 
 
 GM8land/sms-spam-detector
