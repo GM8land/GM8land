@@ -1,6 +1,6 @@
 ## Hi, I’m Geoff (He/Him)
 ### I recently completed a 24-week bootcamp at Rice University studying AI and Machine Learning. 
-Key accomplishments and skill proficiencies:
+### Key skills and proficiencies gained from the course:
 - Python coding
 - Data sourcing using APIs
 - Data cleaning, scaling, and normalization
@@ -12,7 +12,7 @@ Key accomplishments and skill proficiencies:
 - Leveraging natural language processing (NLP) and transformers
 - AI ethics and bias reduction
 
-### Samples of my work from the course
+## Samples of my work from the course
     
 
 ### GM8land/python-challenge-updated
