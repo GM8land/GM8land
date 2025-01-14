@@ -1,6 +1,6 @@
 ## Hi, I’m Geoff (He/Him)
 ### I recently completed a 24-week bootcamp at Rice University studying AI and Machine Learning. 
-Some of the key accomplishments and skills I gained and am now proficient in:
+Key accomplishments and skill proficiencies:
 - Python coding
 - Data sourcing using APIs
 - Data cleaning, scaling, and normalization
