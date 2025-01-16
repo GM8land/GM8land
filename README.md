@@ -1,4 +1,4 @@
-## Hi, I’m Geoff (He/Him)
+
 ### I recently completed a 24-week bootcamp at Rice University studying AI and Machine Learning. 
 ### Key skills and proficiencies gained from the course:
 - Python coding
