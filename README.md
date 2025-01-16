@@ -39,7 +39,7 @@ Create and use APIs to source and prepare data for a recommendation system
 
 
 ### https://github.com/GM8land/prophet-challenge
-Use Meta's Prophet model to perform Time Series Forecasting to predict whether a company's search traffic can translate into successful stock trades
+Use Meta's Prophet model to perform Time Series Forecasting and predict whether a company's search traffic can translate into successful stock trades
 
 
 ### https://github.com/DonoW4000/Global_Data_Jobs
