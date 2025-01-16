@@ -12,7 +12,7 @@
 - Leveraging natural language processing (NLP) and transformers
 - AI ethics and bias reduction
 
-## Samples of my work from the course can be found in my repositories linked below
+## Samples of my work (Code and ReadMe files) from the course can be found in my repositories linked below. 
     
 
 ### https://github.com/GM8land/python-challenge-updated
